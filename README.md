@@ -3,7 +3,10 @@
 A digital clock is an alternative to a traditional analogue clock. This type of clock shows numbers to display the time in a digital format, such as on a watch, phone or an alarm clock. This can be in both 12 and 24-hour formats.Digital Clock is a simple implementation of using JavaScript time function to show the time in a digitised form.
 
 # Working Language
-Used : HTML, CSS, JavaScript 
+Used : HTML, CSS, JavaScript  
+
+# Website Link :  
+https://digital-clock.saiju2001.repl.co
 
 # Website![digital clock web page](https://github.com/SAIJU2001/Digital-Clock-using-HTML-CSS-JS/assets/102968768/a0c9cd19-7487-4eab-a6f5-c8b74b2549ce)
 <h1 align="center">Hi 👋, I'm saikat naskar</h1>
